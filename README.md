@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Gaby's repositories](https://github.com/gabykh1?tab=repositories)
 
-- 📫 Reach me on **[Gaby's mail](gaby2002yo@gmail.com)**
+- 📫 Reach me on **[Gaby's mail](gabriel.zordeh@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

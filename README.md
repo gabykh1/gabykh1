@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Khvalevsky</h1>
-<h3 align="center">Military Intelligence Data Analyst at IAF</h3>
+<h3 align="center">Data Wizard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabykh1&label=Profile%20views&color=0e75b6&style=flat" alt="gabykh1" /> </p>
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabykh1&label=Profile%20views&color=0e75b6&style=flat" alt="gabykh1" /> </p>
 
-- 🔭 I’m currently working on [NLP - ROBO SHAUL](https://github.com/gabykh1/Robo-Shaul)
+- 🔭 I’m done working on [NLP - ROBO SHAUL](https://github.com/gabykh1/Robo-Shaul)
 
 ![robo_intro](https://github.com/gabykh1/gabykh1/assets/108233349/17d5cf70-8385-46c3-85b8-7aba563d9e1b)
 
